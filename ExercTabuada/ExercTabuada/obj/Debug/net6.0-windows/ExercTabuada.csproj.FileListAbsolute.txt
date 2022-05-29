@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.Form1.resources
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\bin\Debug\net6.0-windows\ExercTabuada.exe
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\bin\Debug\net6.0-windows\ExercTabuada.deps.json
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\bin\Debug\net6.0-windows\ExercTabuada.runtimeconfig.json
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\bin\Debug\net6.0-windows\ExercTabuada.dll
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\bin\Debug\net6.0-windows\ExercTabuada.pdb
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.dll
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\refint\ExercTabuada.dll
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.pdb
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ExercTabuada.genruntimeconfig.cache
+C:\Users\mathe\source\repos\ExercTabuada\ExercTabuada\obj\Debug\net6.0-windows\ref\ExercTabuada.dll

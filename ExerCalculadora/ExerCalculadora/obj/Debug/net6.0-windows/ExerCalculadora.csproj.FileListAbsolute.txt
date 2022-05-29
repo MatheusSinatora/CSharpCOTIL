@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\bin\Debug\net6.0-windows\ExerCalculadora.exe
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\bin\Debug\net6.0-windows\ExerCalculadora.deps.json
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\bin\Debug\net6.0-windows\ExerCalculadora.runtimeconfig.json
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\bin\Debug\net6.0-windows\ExerCalculadora.dll
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\bin\Debug\net6.0-windows\ExerCalculadora.pdb
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.Form1.resources
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.dll
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\refint\ExerCalculadora.dll
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.pdb
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ExerCalculadora.genruntimeconfig.cache
+C:\Users\mathe\source\repos\ExerCalculadora\ExerCalculadora\obj\Debug\net6.0-windows\ref\ExerCalculadora.dll
