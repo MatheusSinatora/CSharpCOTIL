@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\bin\Debug\Aula07IDatasArquivos.exe.config
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\bin\Debug\Aula07IDatasArquivos.exe
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\bin\Debug\Aula07IDatasArquivos.pdb
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.Form1.resources
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.Properties.Resources.resources
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.exe
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.pdb
+C:\Users\aluno\source\repos\Aula07IDatasArquivos\obj\Debug\Aula07IDatasArquivos.Form2.resources
