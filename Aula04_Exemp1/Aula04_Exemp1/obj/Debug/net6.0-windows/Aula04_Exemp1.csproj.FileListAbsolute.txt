@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.Form1.resources
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\bin\Debug\net6.0-windows\Aula04_Exemp1.exe
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\bin\Debug\net6.0-windows\Aula04_Exemp1.deps.json
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\bin\Debug\net6.0-windows\Aula04_Exemp1.runtimeconfig.json
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\bin\Debug\net6.0-windows\Aula04_Exemp1.dll
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\bin\Debug\net6.0-windows\Aula04_Exemp1.pdb
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.dll
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\refint\Aula04_Exemp1.dll
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.pdb
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\Aula04_Exemp1.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Aula04_Exemp1\Aula04_Exemp1\obj\Debug\net6.0-windows\ref\Aula04_Exemp1.dll
