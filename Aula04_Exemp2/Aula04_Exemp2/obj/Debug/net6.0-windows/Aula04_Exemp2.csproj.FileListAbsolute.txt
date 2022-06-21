@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\bin\Debug\net6.0-windows\Aula04_Exemp2.exe
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\bin\Debug\net6.0-windows\Aula04_Exemp2.deps.json
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\bin\Debug\net6.0-windows\Aula04_Exemp2.runtimeconfig.json
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\bin\Debug\net6.0-windows\Aula04_Exemp2.dll
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\bin\Debug\net6.0-windows\Aula04_Exemp2.pdb
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.Form1.resources
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.dll
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\refint\Aula04_Exemp2.dll
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.pdb
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\Aula04_Exemp2.genruntimeconfig.cache
+C:\Users\mathe\source\repos\Aula04_Exemp2\Aula04_Exemp2\obj\Debug\net6.0-windows\ref\Aula04_Exemp2.dll
